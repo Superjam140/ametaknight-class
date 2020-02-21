@@ -1,0 +1,52 @@
+/* element selector:
+selects HTMl elements*/
+h1 {
+    color: orange;
+    background-color: aqua;
+    font-size:3em;
+    font-family:cursive, sans-serif;
+ }
+ 
+ h2 { 
+     color: oldlace;
+     background-color: royalblue;
+     font-size: 2em;
+     font-family:sans-serif;
+     width:275px;
+     margin-left:10px;
+ }
+ div {  
+     width: 200px;
+     height: 200px;
+     border: 3px; color:brown;
+     text-align: center;
+     font-size: 2em;
+     margin: 10px;
+      background-color: cornflowerblue;
+
+
+ }
+ 
+ p {
+     color: gold;
+ }
+
+
+ /* ID selectors: select IDs assigned to HTML elements. There should only be one instance of an ID on an HTML page */
+
+ #home-title {
+     text-align: center;
+
+
+ }
+
+ .purple {
+     background-color: purple;
+ }
+
+ .red {background-color: red;
+}
+
+.underline {background-color: underline;
+}
+

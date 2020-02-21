@@ -1,0 +1,2 @@
+# ametaknight-class
+ for class
