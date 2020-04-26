@@ -1,5 +1,4 @@
-/* element selector:
-selects HTMl elements*/
+
 h1 { 
     color: orange;
     background-color: aqua;
@@ -32,7 +31,7 @@ h1 {
  }
 
 
- /* ID selectors: select IDs assigned to HTML elements. There should only be one instance of an ID on an HTML page */
+
 
  #home-title {
      text-align: center;
