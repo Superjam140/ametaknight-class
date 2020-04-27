@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-family: Arial;
+}
+
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    flex-wrap: wrap blue;
+}
+
+
+
+
+img {
+    width: 150px;
+    border: 4px dashed burlywood;
+    margin: 10px; 
+}
+
