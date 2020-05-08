@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+
+a {
+    color: yellow;
+    background-color: black;
+    text-decoration: underline green;
+}
+
+ a:hover {
+    color: red;
+    background-color: azure;
+    text-decoration: underline;
+}
+
+div { 
+    color:darkorange;
+    background-color: pink;
+    height: 40px;
+}
