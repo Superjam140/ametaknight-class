@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    padding: 40px;
+    text-align: center;
+    color: blue;
+
+}
+p{
+    text-align: center;
+    background-color: red;
+    inline-size: auto;
+}
+
+
+#main-menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: Arial;
+}
+
+.menu-item {
+    border: 1px solid white;
+    background-color: rgb(30, 30, 30);
+    color: lightyellow;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px 20px;
+    font-size: 1.25em;
+
+}
+
+.menu-item:hover {
+    background-color: white;
+    color: orange;
+}
+
+
