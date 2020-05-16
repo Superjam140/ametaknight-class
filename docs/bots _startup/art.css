@@ -1,0 +1,43 @@
+*_{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+h1{
+    text-align: center;
+    background-color: bisque;
+    font: 1em sans-serif;
+    color: red;
+    
+}
+
+img{ 
+    padding-left: 5cm;
+    margin: 2cm;
+    border: 4cm;
+
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+}
+
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
